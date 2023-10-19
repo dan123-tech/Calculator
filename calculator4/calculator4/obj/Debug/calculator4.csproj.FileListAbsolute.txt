@@ -1,0 +1,12 @@
+C:\Daniel\VisualStudio\calculator4\calculator4\bin\Debug\calculator4.exe.config
+C:\Daniel\VisualStudio\calculator4\calculator4\bin\Debug\calculator4.exe
+C:\Daniel\VisualStudio\calculator4\calculator4\bin\Debug\calculator4.pdb
+C:\Daniel\VisualStudio\calculator4\calculator4\obj\Debug\calculator4.Form1.resources
+C:\Daniel\VisualStudio\calculator4\calculator4\obj\Debug\calculator4.Properties.Resources.resources
+C:\Daniel\VisualStudio\calculator4\calculator4\obj\Debug\calculator4.csproj.GenerateResource.cache
+C:\Daniel\VisualStudio\calculator4\calculator4\obj\Debug\calculator4.csproj.CoreCompileInputs.cache
+C:\Daniel\VisualStudio\calculator4\calculator4\obj\Debug\calculator4.exe
+C:\Daniel\VisualStudio\calculator4\calculator4\obj\Debug\calculator4.pdb
+C:\Daniel\VisualStudio\calculator4\calculator4\obj\Debug\calculator4.Form2.resources
+C:\Daniel\VisualStudio\calculator4\calculator4\obj\Debug\calculator4.Form3.resources
+C:\Daniel\VisualStudio\calculator4\calculator4\obj\Debug\calculator4.csprojAssemblyReference.cache
